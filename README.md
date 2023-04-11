@@ -12,3 +12,6 @@ MLS Home price index follows the actual property prices closely and are highly c
 York mill is the most expensive region in Toronto with average price in the range of 1.8M$. The most affordable region is Bradford West Gwillimbury.
 The City of Toronto has observed the highest rate of change. Oshawa has observed the least change in YoY rate.
 The detached family home are the most expensive type of property to purchase.
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/112019616/231300640-758f92a8-f36b-4289-b612-c6a40bbd4e08.png">
+
