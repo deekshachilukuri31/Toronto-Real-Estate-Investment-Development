@@ -15,3 +15,14 @@ The detached family home are the most expensive type of property to purchase.
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/112019616/231300640-758f92a8-f36b-4289-b612-c6a40bbd4e08.png">
 
+
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/112019616/231300816-5046ddef-164b-4ed7-b065-073e0830bae4.png">
+
+
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/112019616/231300890-01d63b29-2fd9-4733-8291-85afbf709f52.png">
+
+
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/112019616/231300933-8ec91a54-18ef-4b38-97b6-2bb219ba7c7b.png">
